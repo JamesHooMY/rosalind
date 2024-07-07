@@ -1,6 +1,9 @@
 # Rosalind
 ### Roadmap
-- [ ] String Algorithms
+#### List View
+- [ ] Problems
+
+#### Topics
 - [ ] Alignment
 - [ ] Combinatorics
 - [ ] Computational Mass Spectrometry
@@ -16,7 +19,7 @@
 - [ ] Probability
 - [ ] Set Theory
 - [ ] Sorting
-
+- [ ] String Algorithms
 
 # create a virtual environment
 > python -m venv venv
@@ -32,7 +35,7 @@
 > poetry remove pytest
 
 # install all dependencies for the project
-> poetry installclear
+> poetry install --no-cache
 
 # run the server
 > make run
