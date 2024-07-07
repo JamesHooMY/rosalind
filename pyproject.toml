@@ -10,6 +10,9 @@ python = "^3.8"
 pytest = "^8.2.2"
 
 
+[tool.poetry.group.dev.dependencies]
+pytest-benchmark = "^4.0.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"

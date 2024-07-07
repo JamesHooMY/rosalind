@@ -1,5 +1,6 @@
 # Rosalind
 ### Roadmap
+- [ ] String Algorithms
 - [ ] Alignment
 - [ ] Combinatorics
 - [ ] Computational Mass Spectrometry
@@ -15,7 +16,7 @@
 - [ ] Probability
 - [ ] Set Theory
 - [ ] Sorting
-- [ ] String Algorithms
+
 
 # create a virtual environment
 > python -m venv venv
